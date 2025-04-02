@@ -3,27 +3,27 @@
 
 ### Section 1: Online Survey Platforms: Designing and Administering Surveys
 - [Lecture Notes: Online Survey Platforms](./lecture_notes/survey_platforms/online_survey_platforms.md)
-- [Presentation Slides: Online Survey Platforms](/home/ubuntu/survey_workshop/slides/survey_platforms/online_survey_platforms_slides.md)
+- [Presentation Slides: Online Survey Platforms](./slides/survey_platforms/online_survey_platforms_slides.md)
 - Interactive Exercises:
-  - [Platform Selection Exercise](/home/ubuntu/survey_workshop/exercises/survey_platforms/platform_selection_exercise.md)
-  - [Survey Design Exercise](/home/ubuntu/survey_workshop/exercises/survey_platforms/survey_design_exercise.md)
-  - [Survey Administration Exercise](/home/ubuntu/survey_workshop/exercises/survey_platforms/survey_administration_exercise.md)
+  - [Platform Selection Exercise](./exercises/survey_platforms/platform_selection_exercise.md)
+  - [Survey Design Exercise](./exercises/survey_platforms/survey_design_exercise.md)
+  - [Survey Administration Exercise](./exercises/survey_platforms/survey_administration_exercise.md)
 
 ### Section 2: Statistical Techniques for Analyzing Survey Data
-- [Lecture Notes: Statistical Techniques](/home/ubuntu/survey_workshop/lecture_notes/statistical_techniques/statistical_techniques.md)
-- [Presentation Slides: Statistical Techniques](/home/ubuntu/survey_workshop/slides/statistical_techniques/statistical_techniques_slides.md)
+- [Lecture Notes: Statistical Techniques](./lecture_notes/statistical_techniques/statistical_techniques.md)
+- [Presentation Slides: Statistical Techniques](./slides/statistical_techniques/statistical_techniques_slides.md)
 - Interactive Exercises:
-  - [Statistical Analysis Exercise](/home/ubuntu/survey_workshop/exercises/statistical_techniques/statistical_analysis_exercise.md)
-  - [Data Visualization Exercise](/home/ubuntu/survey_workshop/exercises/statistical_techniques/data_visualization_exercise.md)
-  - [Hypothesis Testing Exercise](/home/ubuntu/survey_workshop/exercises/statistical_techniques/hypothesis_testing_exercise.md)
+  - [Statistical Analysis Exercise](./exercises/statistical_techniques/statistical_analysis_exercise.md)
+  - [Data Visualization Exercise](./exercises/statistical_techniques/data_visualization_exercise.md)
+  - [Hypothesis Testing Exercise](./exercises/statistical_techniques/hypothesis_testing_exercise.md)
 
 ### Section 3: Advanced Data Analysis Tools for Survey Research
-- [Lecture Notes: Advanced Data Analysis Tools](/home/ubuntu/survey_workshop/lecture_notes/data_analysis_tools/advanced_data_analysis_tools.md)
-- [Presentation Slides: Advanced Data Analysis Tools](/home/ubuntu/survey_workshop/slides/data_analysis_tools/advanced_data_analysis_tools_slides.md)
+- [Lecture Notes: Advanced Data Analysis Tools](./lecture_notes/data_analysis_tools/advanced_data_analysis_tools.md)
+- [Presentation Slides: Advanced Data Analysis Tools](./slides/data_analysis_tools/advanced_data_analysis_tools_slides.md)
 - Interactive Exercises:
-  - [Text Analytics Exercise](/home/ubuntu/survey_workshop/exercises/data_analysis_tools/text_analytics_exercise.md)
-  - [Data Visualization Exercise](/home/ubuntu/survey_workshop/exercises/data_analysis_tools/data_visualization_exercise.md)
-  - [Advanced Analytics Integration Exercise](/home/ubuntu/survey_workshop/exercises/data_analysis_tools/advanced_analytics_integration_exercise.md)
+  - [Text Analytics Exercise](./exercises/data_analysis_tools/text_analytics_exercise.md)
+  - [Data Visualization Exercise](./exercises/data_analysis_tools/data_visualization_exercise.md)
+  - [Advanced Analytics Integration Exercise](./exercises/data_analysis_tools/advanced_analytics_integration_exercise.md)
 
 ## Workshop Schedule
 
