@@ -2,7 +2,7 @@
 ## Table of Contents
 
 ### Section 1: Online Survey Platforms: Designing and Administering Surveys
-- [Lecture Notes: Online Survey Platforms](/home/ubuntu/survey_workshop/lecture_notes/survey_platforms/online_survey_platforms.md)
+- [Lecture Notes: Online Survey Platforms](/lecture_notes/survey_platforms/online_survey_platforms.md)
 - [Presentation Slides: Online Survey Platforms](/home/ubuntu/survey_workshop/slides/survey_platforms/online_survey_platforms_slides.md)
 - Interactive Exercises:
   - [Platform Selection Exercise](/home/ubuntu/survey_workshop/exercises/survey_platforms/platform_selection_exercise.md)
