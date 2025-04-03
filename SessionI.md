@@ -125,5 +125,3 @@
 *   **Ethics are Non-Negotiable:** Prioritize informed consent and participant protection.
 *   **Pilot, Pilot, Pilot:** Always test your survey before launching.
 
----
-This detailed structure provides a comprehensive guide for the session, balancing theoretical concepts with practical application using Google Forms, and incorporating use cases to illustrate key points effectively for a research-oriented audience.
