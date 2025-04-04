@@ -1,6 +1,3 @@
-Okay, Professor, here are detailed lecture notes for Session 2, structured for delivery and potentially as a handout for participants.
-
----
 
 **Lecture Notes: Session 2 - Statistical Analysis of Survey Data (Excel & Jamovi)**
 
