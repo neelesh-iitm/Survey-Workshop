@@ -1,0 +1,251 @@
+StudentID,Status,Department,UsageFreq,Sat_Books,Sat_Journals,Sat_Staff,Sat_Space,Sat_Comfort,Sat_Overall,Feedback_Text
+S1,UG,Engineering,Monthly,2,4,4,3,3,2,
+S2,PG,Arts & Science,Monthly,4,4,4,3,3,5,Could use more comfortable chairs
+S3,PG,Medicine,Weekly,5,2,2,1,5,4,
+S4,UG,Arts & Science,Rarely,4,2,4,3,3,4,
+S5,UG,Engineering,Monthly,4,3,4,5,3,4,
+S6,UG,Arts & Science,Weekly,4,3,4,4,4,3,Love the new study pods
+S7,UG,Other,Rarely,4,2,4,5,3,3,
+S8,PG,Business,Rarely,5,4,4,4,4,4,
+S9,PG,Arts & Science,Rarely,3,2,5,3,2,3,Online database access is confusing
+S10,PG,Engineering,Monthly,4,4,5,4,4,4,Love the new study pods
+S11,UG,Business,Monthly,3,2,5,3,1,4,
+S12,PG,Other,Weekly,5,4,5,5,2,4,
+S13,PG,Engineering,Rarely,5,3,5,2,5,5,
+S14,UG,Arts & Science,Rarely,1,3,1,3,2,3,Hard to find books sometimes
+S15,UG,Medicine,Daily,4,1,3,2,4,4,
+S16,UG,Business,Daily,5,1,1,3,3,4,
+S17,UG,Business,Weekly,2,3,5,4,3,3,Quieter zones would be good
+S18,UG,Business,Rarely,4,3,5,3,4,4,Very satisfied overall
+S19,UG,Arts & Science,Never,5,3,4,3,1,3,
+S20,UG,Engineering,Weekly,1,2,5,3,4,3,More group study rooms needed
+S21,PG,Medicine,Monthly,4,4,3,4,5,3,
+S22,UG,Medicine,Weekly,3,4,5,4,4,3,Too noisy sometimes
+S23,UG,Medicine,Never,5,4,4,4,5,3,
+S24,UG,Other,Rarely,5,1,3,5,2,4,
+S25,UG,Arts & Science,Rarely,5,3,4,4,3,5,Love the new study pods
+S26,PG,Arts & Science,Weekly,4,2,4,3,3,4,
+S27,UG,Medicine,Weekly,4,2,4,4,4,4,
+S28,UG,Business,Weekly,4,5,4,3,5,3,Need more power outlets near desks
+S29,UG,Business,Daily,3,2,5,3,3,4,Need more power outlets near desks
+S30,UG,Medicine,Rarely,4,3,4,4,4,2,
+S31,PG,Medicine,Rarely,2,4,4,2,3,3,
+S32,UG,Arts & Science,Never,4,4,5,5,4,3,
+S33,UG,Arts & Science,Never,3,3,5,3,3,3,
+S34,PG,Engineering,Monthly,3,1,4,4,5,2,
+S35,PG,Arts & Science,Monthly,2,3,4,4,4,3,
+S36,PG,Engineering,Rarely,4,4,3,5,3,3,Keep up the good work!
+S37,UG,Arts & Science,Rarely,3,1,3,4,2,5,
+S38,UG,Arts & Science,Weekly,4,3,5,4,3,3,
+S39,PG,Engineering,Weekly,2,2,4,2,3,4,
+S40,UG,Arts & Science,Weekly,3,1,4,3,3,2,Could use more comfortable chairs
+S41,UG,Engineering,Never,3,3,5,2,4,4,
+S42,UG,Engineering,Monthly,4,2,3,4,4,3,
+S43,UG,Medicine,Weekly,3,3,4,3,4,3,
+S44,PG,Arts & Science,Monthly,4,4,4,4,3,4,
+S45,UG,Engineering,Monthly,4,4,5,1,4,1,
+S46,PG,Arts & Science,Weekly,4,3,4,2,4,1,Very satisfied overall
+S47,UG,Medicine,Weekly,3,2,5,4,2,3,Need more copies of popular textbooks
+S48,UG,Engineering,Monthly,1,2,4,2,4,1,
+S49,UG,Business,Monthly,4,3,2,2,4,2,
+S50,UG,Engineering,Monthly,1,4,5,1,2,3,Keep up the good work!
+S51,PG,Engineering,Monthly,5,2,5,5,4,5,
+S52,PG,Arts & Science,Rarely,4,5,5,4,4,4,
+S53,PG,Arts & Science,Monthly,5,2,5,3,3,4,
+S54,PG,Business,Monthly,5,4,5,3,5,3,
+S55,UG,Business,Rarely,5,4,4,3,4,5,
+S56,PG,Other,Weekly,4,5,4,4,4,3,Staff are very helpful!
+S57,UG,Arts & Science,Weekly,4,4,5,4,3,2,Need more copies of popular textbooks
+S58,UG,Arts & Science,Daily,3,4,4,2,3,4,Need more copies of popular textbooks
+S59,UG,Medicine,Monthly,3,2,5,2,4,2,
+S60,UG,Engineering,Monthly,4,4,5,2,4,3,
+S61,UG,Arts & Science,Monthly,4,1,4,4,2,3,Temperature is often too cold/hot
+S62,UG,Engineering,Weekly,5,4,4,4,4,4,Journals I need are not available online
+S63,PG,Engineering,Weekly,5,4,5,3,4,4,
+S64,UG,Other,Daily,3,4,4,1,3,4,Keep up the good work!
+S65,UG,Medicine,Weekly,3,3,5,2,2,5,Very satisfied overall
+S66,UG,Business,Monthly,4,3,4,5,4,2,
+S67,UG,Arts & Science,Weekly,3,3,5,3,3,3,
+S68,PG,Engineering,Weekly,3,4,3,4,3,3,
+S69,UG,Engineering,Rarely,3,1,5,4,3,3,
+S70,PG,Engineering,Weekly,3,2,4,3,3,4,
+S71,PG,Arts & Science,Monthly,3,3,5,3,4,5,Printing is often broken
+S72,UG,Business,Monthly,3,2,3,2,4,4,
+S73,UG,Business,Weekly,1,4,5,4,3,4,
+S74,PG,Engineering,Monthly,1,3,5,4,5,3,
+S75,PG,Other,Rarely,5,5,4,4,5,5,
+S76,PG,Business,Rarely,4,3,3,4,5,5,Keep up the good work!
+S77,PG,Arts & Science,Weekly,4,3,2,2,3,5,
+S78,UG,Business,Rarely,4,4,5,5,3,1,
+S79,UG,Arts & Science,Weekly,3,3,5,4,5,4,Staff are very helpful!
+S80,UG,Engineering,Weekly,5,3,4,3,4,2,
+S81,PG,Arts & Science,Weekly,5,4,4,5,2,3,
+S82,PG,Medicine,Never,2,4,4,4,2,2,
+S83,UG,Engineering,Weekly,3,2,4,3,3,4,
+S84,UG,Engineering,Weekly,4,5,4,4,5,4,
+S85,UG,Engineering,Monthly,5,5,5,4,4,2,
+S86,UG,Engineering,Weekly,3,3,3,4,3,3,
+S87,PG,Medicine,Daily,4,3,5,3,3,4,Keep up the good work!
+S88,PG,Business,Weekly,3,4,4,3,4,3,
+S89,PG,Arts & Science,Weekly,5,2,4,5,4,3,
+S90,UG,Engineering,Weekly,3,1,5,3,3,3,
+S91,UG,Arts & Science,Weekly,5,2,5,3,4,4,
+S92,PG,Arts & Science,Monthly,4,4,5,4,5,2,
+S93,PG,Engineering,Weekly,4,5,3,4,3,2,
+S94,UG,Arts & Science,Weekly,3,4,3,4,4,3,Website is hard to navigate
+S95,PG,Arts & Science,Rarely,3,4,5,5,3,5,
+S96,UG,Business,Weekly,2,3,4,3,4,4,
+S97,UG,Business,Monthly,3,2,4,2,4,4,
+S98,UG,Engineering,Weekly,2,3,3,2,4,3,Temperature is often too cold/hot
+S99,UG,Arts & Science,Weekly,4,5,3,4,4,3,
+S100,UG,Business,Daily,3,1,5,4,3,1,
+S101,UG,Arts & Science,Weekly,2,4,3,3,5,4,
+S102,PG,Medicine,Weekly,5,4,4,5,4,5,Hard to find books sometimes
+S103,UG,Business,Weekly,4,3,4,4,3,4,
+S104,UG,Engineering,Daily,5,4,4,4,4,4,Online database access is confusing
+S105,PG,Engineering,Weekly,5,4,3,5,4,4,
+S106,UG,Business,Weekly,2,4,4,3,3,2,
+S107,UG,Engineering,Weekly,3,5,3,4,4,5,
+S108,PG,Arts & Science,Weekly,5,3,5,4,5,2,
+S109,UG,Other,Monthly,4,2,4,4,3,3,
+S110,UG,Arts & Science,Monthly,2,3,4,4,5,2,
+S111,UG,Arts & Science,Daily,4,5,5,4,2,1,Excellent online resources
+S112,UG,Business,Monthly,3,2,5,4,3,3,
+S113,PG,Arts & Science,Monthly,3,4,4,3,3,3,
+S114,PG,Arts & Science,Daily,4,4,4,4,5,4,
+S115,PG,Other,Rarely,4,4,4,5,4,4,
+S116,PG,Arts & Science,Rarely,4,2,5,5,3,2,
+S117,PG,Other,Daily,2,4,5,2,4,3,
+S118,UG,Other,Weekly,4,5,5,2,4,3,
+S119,PG,Engineering,Rarely,3,3,5,3,2,3,Very satisfied overall
+S120,UG,Engineering,Monthly,2,2,5,4,4,4,Could use more comfortable chairs
+S121,PG,Engineering,Weekly,5,5,4,5,4,4,
+S122,PG,Engineering,Weekly,5,3,3,3,4,5,
+S123,UG,Engineering,Weekly,4,4,4,3,5,4,
+S124,UG,Business,Weekly,4,3,5,4,3,3,
+S125,UG,Engineering,Monthly,4,2,3,4,5,4,
+S126,UG,Arts & Science,Weekly,4,4,5,3,4,3,
+S127,PG,Medicine,Weekly,2,3,4,4,4,3,Need more power outlets near desks
+S128,PG,Engineering,Monthly,4,4,4,4,3,4,
+S129,UG,Medicine,Daily,3,3,3,3,4,3,
+S130,UG,Engineering,Weekly,3,3,4,3,3,4,
+S131,UG,Engineering,Monthly,4,2,5,4,3,4,
+S132,UG,Business,Rarely,3,3,4,4,1,4,
+S133,UG,Business,Monthly,2,5,5,4,4,5,
+S134,UG,Medicine,Monthly,3,2,5,4,4,3,
+S135,PG,Business,Weekly,4,4,5,3,4,3,Love the new study pods
+S136,UG,Medicine,Weekly,2,2,4,3,4,3,
+S137,UG,Engineering,Monthly,4,4,4,1,2,3,
+S138,PG,Engineering,Weekly,4,2,4,3,4,4,
+S139,UG,Medicine,Weekly,3,5,5,4,3,4,
+S140,PG,Medicine,Weekly,4,4,5,5,5,4,
+S141,PG,Other,Daily,5,3,4,2,4,3,Need more power outlets near desks
+S142,UG,Arts & Science,Weekly,3,1,5,3,4,2,Too noisy sometimes
+S143,UG,Arts & Science,Weekly,4,2,4,4,4,3,More group study rooms needed
+S144,UG,Medicine,Weekly,4,3,5,3,3,2,
+S145,UG,Arts & Science,Weekly,3,2,3,3,3,4,
+S146,UG,Other,Rarely,4,4,5,4,4,3,
+S147,PG,Medicine,Monthly,5,3,3,4,4,3,
+S148,UG,Arts & Science,Monthly,4,2,5,2,3,1,Online database access is confusing
+S149,UG,Medicine,Monthly,4,3,5,3,3,4,
+S150,UG,Medicine,Weekly,4,4,5,4,4,4,
+S151,PG,Engineering,Daily,4,3,3,4,3,3,
+S152,UG,Other,Monthly,4,2,4,1,3,2,
+S153,UG,Arts & Science,Monthly,4,1,4,4,4,3,
+S154,UG,Medicine,Monthly,4,4,4,1,4,3,
+S155,PG,Arts & Science,Weekly,4,4,3,4,3,4,
+S156,UG,Medicine,Weekly,4,3,5,3,3,4,Online database access is confusing
+S157,PG,Arts & Science,Weekly,3,5,5,5,3,3,More group study rooms needed
+S158,PG,Engineering,Weekly,5,5,4,3,3,3,
+S159,UG,Other,Monthly,4,3,4,3,3,5,
+S160,PG,Engineering,Monthly,2,5,4,3,4,4,
+S161,UG,Arts & Science,Weekly,4,2,5,3,4,4,
+S162,PG,Other,Never,3,2,4,5,4,3,
+S163,PG,Other,Monthly,3,3,5,5,3,4,
+S164,UG,Arts & Science,Weekly,4,1,4,3,4,1,
+S165,UG,Business,Weekly,2,3,5,3,3,3,
+S166,PG,Arts & Science,Weekly,5,5,5,4,5,5,
+S167,UG,Engineering,Weekly,4,1,4,4,4,3,
+S168,UG,Arts & Science,Weekly,3,2,5,3,2,1,Could use more comfortable chairs
+S169,UG,Business,Weekly,1,3,3,3,4,1,Quieter zones would be good
+S170,UG,Medicine,Weekly,3,5,5,3,3,3,
+S171,PG,Medicine,Weekly,4,3,4,4,4,3,Very satisfied overall
+S172,UG,Medicine,Rarely,5,3,5,1,2,1,
+S173,UG,Engineering,Daily,4,1,5,4,3,4,Online database access is confusing
+S174,UG,Arts & Science,Monthly,3,2,5,3,4,3,Love the new study pods
+S175,PG,Engineering,Weekly,4,5,5,4,3,3,
+S176,UG,Arts & Science,Never,3,5,4,2,4,5,
+S177,PG,Arts & Science,Weekly,5,1,3,4,3,3,
+S178,UG,Medicine,Weekly,2,5,4,3,4,5,
+S179,PG,Arts & Science,Never,5,4,4,4,4,3,
+S180,UG,Engineering,Rarely,3,4,5,2,4,4,
+S181,UG,Engineering,Rarely,5,3,4,3,3,4,
+S182,UG,Medicine,Weekly,3,3,5,3,3,4,Journals I need are not available online
+S183,PG,Business,Weekly,4,4,5,4,2,5,Need access to [Specific Software/Database]
+S184,PG,Engineering,Monthly,5,4,5,4,3,3,
+S185,UG,Engineering,Rarely,2,2,3,4,4,5,
+S186,PG,Business,Monthly,5,1,5,5,5,3,
+S187,PG,Engineering,Monthly,4,3,5,3,5,3,
+S188,UG,Medicine,Weekly,2,4,4,4,4,3,Keep up the good work!
+S189,UG,Business,Monthly,3,2,5,3,4,3,
+S190,UG,Engineering,Weekly,4,3,5,2,4,2,
+S191,UG,Engineering,Weekly,2,5,3,2,3,3,
+S192,PG,Other,Weekly,4,2,4,3,5,4,
+S193,PG,Arts & Science,Monthly,3,4,4,4,4,4,
+S194,PG,Arts & Science,Weekly,4,3,3,4,4,5,More group study rooms needed
+S195,UG,Medicine,Weekly,1,4,4,4,2,3,
+S196,UG,Other,Monthly,4,2,3,3,3,3,
+S197,PG,Other,Weekly,5,4,2,4,4,3,
+S198,PG,Medicine,Monthly,5,5,3,3,5,3,Online database access is confusing
+S199,PG,Arts & Science,Weekly,4,5,5,3,4,2,Very satisfied overall
+S200,PG,Engineering,Weekly,3,4,4,4,3,3,
+S201,PG,Medicine,Monthly,5,4,5,2,5,3,
+S202,UG,Arts & Science,Daily,1,3,4,3,2,5,
+S203,UG,Arts & Science,Weekly,1,4,4,3,3,3,
+S204,PG,Other,Weekly,3,4,4,4,2,3,Keep up the good work!
+S205,PG,Engineering,Daily,4,2,4,5,4,4,
+S206,UG,Arts & Science,Never,4,5,3,5,5,2,
+S207,UG,Engineering,Weekly,4,3,5,4,3,3,
+S208,PG,Arts & Science,Rarely,4,4,4,4,5,4,
+S209,UG,Engineering,Weekly,3,2,5,4,3,3,
+S210,UG,Engineering,Monthly,5,3,5,4,5,3,Staff are very helpful!
+S211,UG,Engineering,Monthly,3,3,3,2,4,5,
+S212,PG,Business,Monthly,4,4,3,4,4,5,
+S213,PG,Business,Weekly,3,2,5,5,1,4,
+S214,UG,Arts & Science,Weekly,4,3,4,3,5,3,
+S215,PG,Other,Weekly,4,5,3,4,4,4,
+S216,UG,Arts & Science,Rarely,3,1,5,3,3,3,
+S217,UG,Engineering,Rarely,2,5,3,2,4,3,Need more power outlets near desks
+S218,PG,Medicine,Never,4,3,5,3,3,2,
+S219,PG,Engineering,Weekly,4,5,5,3,5,4,
+S220,PG,Other,Monthly,3,4,4,2,3,4,
+S221,PG,Engineering,Rarely,5,4,3,2,4,3,
+S222,UG,Other,Weekly,2,4,3,4,4,5,Need more copies of popular textbooks
+S223,UG,Engineering,Daily,3,4,4,3,2,5,Staff are very helpful!
+S224,UG,Medicine,Monthly,5,3,3,3,3,4,
+S225,UG,Arts & Science,Monthly,3,2,5,3,1,3,
+S226,UG,Other,Rarely,4,3,3,5,3,4,
+S227,PG,Engineering,Weekly,4,5,4,3,3,3,
+S228,UG,Arts & Science,Monthly,3,4,5,3,4,4,
+S229,PG,Other,Weekly,5,4,5,5,3,3,
+S230,PG,Arts & Science,Weekly,4,3,5,5,3,4,
+S231,PG,Business,Weekly,5,5,4,3,4,3,
+S232,UG,Business,Rarely,3,2,5,4,1,4,Excellent online resources
+S233,UG,Arts & Science,Monthly,3,3,4,3,5,5,
+S234,UG,Business,Monthly,1,1,4,3,4,2,
+S235,UG,Arts & Science,Weekly,4,2,3,2,4,3,Staff are very helpful!
+S236,PG,Other,Rarely,4,3,5,2,4,5,
+S237,UG,Engineering,Weekly,4,3,4,4,4,3,
+S238,UG,Engineering,Rarely,3,3,3,3,3,4,
+S239,PG,Other,Weekly,5,3,4,4,2,4,
+S240,UG,Medicine,Weekly,2,3,4,4,3,3,More group study rooms needed
+S241,PG,Arts & Science,Weekly,5,3,5,4,4,3,Love the new study pods
+S242,PG,Business,Weekly,5,3,5,3,2,3,
+S243,PG,Engineering,Monthly,5,3,5,4,4,4,
+S244,UG,Engineering,Monthly,4,1,1,2,5,3,
+S245,UG,Arts & Science,Weekly,4,3,4,4,4,3,
+S246,PG,Arts & Science,Rarely,4,4,4,4,4,4,
+S247,UG,Arts & Science,Weekly,2,3,1,5,2,3,Keep up the good work!
+S248,PG,Engineering,Monthly,2,4,4,2,4,5,
+S249,PG,Other,Rarely,5,3,5,2,4,5,Could use more comfortable chairs
+S250,PG,Other,Monthly,4,5,3,3,3,4,
