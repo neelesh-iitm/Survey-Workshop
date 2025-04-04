@@ -1,4 +1,3 @@
-Okay, Professor. Let's create a cohesive use case that spans all three sessions, using simulated data to illustrate the concepts.
 
 **Use Case: Evaluating Student Satisfaction with University Library Services**
 
