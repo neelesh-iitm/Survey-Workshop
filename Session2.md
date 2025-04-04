@@ -3,10 +3,6 @@
 
 **Session Duration:** 1 Hour
 
-**Instructor:** Professor [Your Name]
-
-**Date:** [Date]
-
 **I. Introduction & Recap (5 mins)**
 
 *   **Welcome Back:** Briefly welcome participants to Session 2.
